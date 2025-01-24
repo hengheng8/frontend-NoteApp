@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # vue-noteapp
 
 ## Project setup
@@ -26,3 +27,6 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 =======
 # Note-App
 >>>>>>> 2902505fcbf686f6da35edbccb9abc6fa828d8cc
+=======
+# Note_App
+>>>>>>> 2b98f6591e109d8fd402c268eb07889eb8d988d2
