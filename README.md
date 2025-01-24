@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # vue-noteapp
 
 ## Project setup
@@ -30,3 +31,6 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 =======
 # Note_App
 >>>>>>> 2b98f6591e109d8fd402c268eb07889eb8d988d2
+=======
+# frontend-NoteApp
+>>>>>>> ca310cb0cf26b4cda1e38f46e9c0171b656b9dfa
